@@ -15,11 +15,11 @@
 
 #### Personal Git Server
 
-Powered by Gitea [Check It](code.trey.top)
+Powered by Gitea [Check It](http://code.trey.top)
 
 #### Full Stack Web Application
 
-Teck Stack: HTML, Boostrap, Angular with TypeScript, Node.JS with Express. [Try It](event-finder.trey.top)
+Teck Stack: HTML, Boostrap, Angular with TypeScript, Node.JS with Express. [Try It](http://event-finder.trey.top)
 
 #### iOS Application
 
