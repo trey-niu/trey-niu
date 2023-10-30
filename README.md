@@ -13,21 +13,21 @@
 
 ## Portfolio 🍾
 
-#### Personal Git Server [Check It](code.trey.top)
+#### Personal Git Server
 
-Powered by Gitea
+Powered by Gitea [Check It](code.trey.top)
 
-#### Full Stack Web Application [Try It](event-finder.trey.top)
+#### Full Stack Web Application
 
-Teck Stack: HTML, Boostrap, Angular with TypeScript, Node.JS with Express.
+Teck Stack: HTML, Boostrap, Angular with TypeScript, Node.JS with Express. [Try It](event-finder.trey.top)
 
-#### iOS Application [Demo](https://youtu.be/TVIW4YuikwE)
+#### iOS Application
 
-Tech Stack: Swift, SwiftUI, Node.JS with Express.
+Tech Stack: Swift, SwiftUI, Node.JS with Express. [Demo](https://youtu.be/TVIW4YuikwE)
 
-#### Roller Coaster Simulator [Demo](https://youtu.be/t4khZmRbH_U)
+#### Roller Coaster Simulator
 
-Tech Stack: OpenGL, Eigen3, C++, Ubunutu.
+Tech Stack: OpenGL, Eigen3, C++, Ubunutu. [Demo](https://youtu.be/t4khZmRbH_U)
 
 ## Contact Me 👍
 
