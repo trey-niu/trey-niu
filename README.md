@@ -5,7 +5,7 @@
 
 - MSCS@USC, expected to graduate in May 2024.
 
-- BEng@WHU, graduated in June 2021.
+- BEngCS@WHU, graduated in June 2021.
 
 - Beginner-level photographer, Elden Ring modder, League of Legends player, Content Creator@Bilibili.
 
