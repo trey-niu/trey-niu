@@ -3,11 +3,11 @@
 
 ## About Me 👨‍🦱
 
-- MSCS@USC, expected to graduate in May 2024.
+- MSCS@USC, graduated in May 2024.
 
 - BEngCS@WHU, graduated in June 2021.
 
-- Beginner-level photographer, Elden Ring modder, League of Legends player, Content Creator@Bilibili.
+- Beginner-level photographer, Hackintosh lover, Elden Ring modder, League of Legends player, Content Creator@Bilibili.
 
 - Speaks Chinese (native), English (fluent), and Japanese (beginner).
 
